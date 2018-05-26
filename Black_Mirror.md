@@ -1,11 +1,11 @@
 # Black Mirror Episodes
 
-## Season 01
+## Season 1
 1. The National Anthem
 2. Fifteen Million Merits
 3. The Entire History of You
 
-## Season 02
+## Season 2
 * 01 Be Right Back
 * 02 White Bear
 * 03 The Waldo Moment
