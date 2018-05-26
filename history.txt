@@ -1,0 +1,207 @@
+    1  bash -help
+    2  --version
+    3  git --version
+    4  $ git config --global user.name "John Doe"
+    5  git config --global user.name "rionka"
+    6  git config --global user.email rionka@gmail.com
+    7  git config --global --list
+    8  git --config --global --list
+    9  git --config --list
+   10  git config --list
+   11  git config --global core.editor
+   12  git config --global core.editor --help
+   13  git config --global --core.editor --help
+   14  ll
+   15  git ll
+   16  ll
+   17  git ll
+   18  ls
+   19  ls -a
+   20  echo $HOME
+   21  cd /c/Users/s1472/
+   22  ls
+   23  history
+   24  history > history.txt
+   25  mkdir
+   26  mkdir repozitar
+   27  ls -al
+   28  mkdir repozitar
+   29  cd repozitar 
+   30  git init
+   31  git status
+   32  ls -al
+   33  rm -rf .git
+   34  ls -al
+   35  git ststus
+   36  git status
+   37  git init
+   38  git status
+   39  ls -al
+   40  ls -al
+   41  ls -al
+   42  ls -al
+   43  ls
+   44  git status
+   45  git add
+   46  git status
+   47  git status --short
+   48  git add
+   49  git add .
+   50  git add .
+   51  git status --short
+   52  git status
+   53  git status
+   54  git add .
+   55  git status
+   56  git status --short
+   57  git status
+   58  git status
+   59  git commit
+   60  git commit
+   61  git commit -m
+   62  git commit -F
+   63  git commit -m ahoj
+   64* git commit -m 
+   65  git commit
+   66  git status
+   67  git status --short
+   68  git status --short
+   69  history > history.txt
+   70  git status --short
+   71  git status 
+   72  git commit
+   73  git commit history.txt 
+   74* 
+   75  git commit history.txt -m dva
+   76  git status 
+   77  git status  --short
+   78  git add text.txt
+   79  git log
+   80  git log
+   81  git commit history.txt -m toto je seznam změn všech řádků
+   82  git commit history.txt -m toto je seznam změn veškerých řádků
+   83  git commit history.txt -m "toto je seznam změn veškerých řádků"
+   84  git commit history.txt -m "musí tam bejt uvozovky!"
+   85  git commit history.txt -m "musí tam bejt uvozovky!"
+   86  git log
+   87  git log --oneline
+   88  history > history.txt
+   89  git commit history.txt -m "na základě těchto řetězců jsme schopni se vracet v čase"
+   90  git log --oneline
+   91  reset fba77cf
+   92  reset 
+   93  reset ?
+   94  git log 
+   95  reset --help
+   96  reset fba77cf
+   97  reset fba77cf --hard
+   98  history > history.txt
+   99  git log 
+  100  reset aadd67b
+  101  reset aadd67b
+  102  git reset aadd67b
+  103  git reset aadd67b --hard
+  104  git reset f173efe0 --hard
+  105  history > history.txt
+  106  commit
+  107  git commit
+  108  it mv textak.txt helloworld.txt
+  109  git mv textak.txt helloworld.txt
+  110  git log
+  111  git help
+  112  git mv
+  113  git mv textak.txt iii.txt
+  114  git status 
+  115  git log
+  116  git confi --core.editor
+  117  git config --core.editor
+  118  git stash
+  119  history > history.txt
+  120* git config --global alias.graph 'git log --graph --oneline'historhis
+  121  graph
+  122  git log --graph --oneline
+  123  git graph
+  124  git config --global alias.graph 'log --graph --oneline'
+  125  git graph
+  126  istory > history.txt
+  127  history > history.txt
+  128  history > history.txt
+  129  git branch
+  130  git branch ?
+  131  git branch b1
+  132  git branch
+  133  git checkout b1
+  134  git branch
+  135  commit
+  136  git commit
+  137  git commit .
+  138  git commit . 
+  139  git commit -m novávětva
+  140  git commit -m novávětva
+  141  git commit -m novávětvička
+  142  git checkout 
+  143  git commit
+  144  git add
+  145  git add .
+  146  git commit
+  147  git commit -m novávětva
+  148  git checkout 
+  149  git branch
+  150  git checkout b1
+  151  git checkout master
+  152  git checkout b1
+  153  git commit
+  154  history > history.txt
+  155  git status --short
+  156  git checkout master
+  157  git stash
+  158  git checkout master
+  159  git add -u
+  160  git log --graph --oneline
+  161  git checkout b1 
+  162  git log --graph --oneline
+  163  git log --graph --all
+  164  history > history.txt
+  165  git --graph --all
+  166  git graph --all
+  167  history > history.txt
+  168  git checkout b1
+  169  git merge
+  170  git merge master
+  171  git graph --all
+  172  git merge novávětva
+  173  git checkout b1
+  174  git merge 
+  175  git merge b1
+  176  git graph --all
+  177  git merge
+  178  git graph --all
+  179  git commit
+  180* git 
+  181  git commit -m "spojily se nám"
+  182  git checkout 
+  183  git commit -m "spojily se nám"
+  184  git checkout master
+  185  git commit -m "spojily se nám"
+  186  stash
+  187  git stash
+  188  git commit -m "spojily se nám"
+  189  git merge -m "spojily se nám"
+  190  git checkout master
+  191  git merge -m "spojily se nám"
+  192  git checkout master
+  193  git merge -m "spojily se nám"
+  194  git status
+  195  git rebase
+  196  history > history.txt
+  197  reset
+  198  cd ..
+  199  git init
+  200  cd repozitar/
+  201  git init
+  202  cd repozitar/
+  203  git clone https://github.com/rionka/czechitas.git
+  204  git log
+  205  cd czechitas
+  206  git log
+  207  history > history.txt
